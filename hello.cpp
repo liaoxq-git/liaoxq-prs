@@ -1,4 +1,4 @@
-@include <stream>
+#include <stream>
 void main()
 {
 	return 0;
